@@ -1,0 +1,2 @@
+1. Make parameter --delete, so backup can be deleted at the end.
+2. ls from global file on server, su update Readme
